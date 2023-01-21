@@ -26,7 +26,7 @@ Data science methods have the potential to benefit other scientific fields by sh
 -  Using SMOTE technique to balance outcome classes' data
 -  Null Values treatment using MICE imputation
 
-# algortihms used:
+# Algortihms used:
 
 - Random Forest Regressor
 - XGBoost Regressor
